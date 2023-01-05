@@ -6,5 +6,5 @@ make
 ./tictactoe [PORT]
 
 [NEW TERMINAL]
-nc -l [PORT] (if local)
+nc localhost [PORT] (if local)
 OR: nc [IP] [PORT]
