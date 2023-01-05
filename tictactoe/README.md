@@ -7,4 +7,6 @@ make
 
 [NEW TERMINAL]
 nc localhost [PORT] (if local)
+
+
 OR: nc [IP] [PORT]
